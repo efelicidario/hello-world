@@ -1,4 +1,16 @@
-<form action="action_page.php">
+<head>
+  <style>
+    body {
+      background-color: #1c2128;
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <form action="action_page.php">
   <div class="container">
     <h1>DevOps Registration</h1>
     <h2>By Tyler Felicidario</h2>
@@ -36,3 +48,5 @@
 
   
 </form>
+</body>
+
