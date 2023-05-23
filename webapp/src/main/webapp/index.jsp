@@ -1,7 +1,11 @@
 <head>
   <style>
+    h1, h2, p {
+      text-align: center;
+    }
     body {
       background-color: #1c2128;
+      color: whitesmoke;
       margin: auto;
       width: 50%;
       padding: 10px;
@@ -44,7 +48,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thanks for your consideration! </h1>
+    <h1> Thanks for your consideration! </h1>
 
   
 </form>
