@@ -1,8 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register to join DevOps</h1>
+    <h1>DevOps Registration</h1>
     <h2>By Tyler Felicidario</h2>
-    <p>Please fill in this form to create an account.</p>
+    <p>Fill out this form to be apart of DevOps.</p>
     <hr>
      
     <label for="Name"><b>Name </b></label>
