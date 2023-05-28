@@ -22,7 +22,7 @@
   <div class="container">
     <h1>DevOps Registration</h1>
     <h2>By Tyler Felicidario</h2>
-    <p>Fill out this form to be apart of DevOps.</p>
+    <p>Fill out this form to be a part of DevOps.</p>
     <hr>
      
     <label for="Name"><b>Name </b></label>
