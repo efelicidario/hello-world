@@ -15,6 +15,7 @@
       padding: 10px;
     }
   </style>
+  <title>DevOps Registration</title>
 </head>
 
 <body>
