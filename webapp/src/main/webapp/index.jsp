@@ -47,13 +47,13 @@
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" class="center registerbtn">Register</button>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-    <h1> Thanks for your consideration, Good Luck! </h1>
+    <h1>Thanks for your consideration, Good Luck!</h1>
 
   
 </form>
