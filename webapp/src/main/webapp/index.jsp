@@ -26,7 +26,7 @@
     <p>Apply to become a DevOps Engineer!</p>
     <hr>
      
-    <label for="Name"><b>Name </b></label>
+    <label for="Name"><b>Full Name </b></label>
     <input type="text" placeholder="Your Name" name="Name" id="Name" required>
     <br>
     
