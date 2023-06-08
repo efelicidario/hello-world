@@ -22,7 +22,7 @@
   <form action="action_page.php">
   <div class="container">
     <h1>DevOps Registration</h1>
-    <h2>By Tyler Felicidario</h2>
+    <h2>By Edmund T. Felicidario</h2>
     <p>Apply to become a DevOps Engineer!</p>
     <hr>
      
