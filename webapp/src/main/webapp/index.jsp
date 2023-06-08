@@ -23,7 +23,7 @@
   <div class="container">
     <h1>DevOps Registration</h1>
     <h2>By Tyler Felicidario</h2>
-    <p>Apply to become a DevOps Engineer!</p>
+    <p>Apply to become a DevOps Engineer.</p>
     <hr>
      
     <label for="Name"><b>Name </b></label>
